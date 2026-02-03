@@ -179,4 +179,16 @@ roadsafe-ai/
     └── workflows/
 ```
 
+## 🌿 Branching Strategy
+
+This project follows GitHub Flow:
+
+- `main` branch contains stable production-ready code
+- Feature branches are created for new features
+- Changes are merged into `main` using pull requests
+
+Example feature branch:
+- `feature-docker-setup`
+
+
 
