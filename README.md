@@ -190,5 +190,11 @@ This project follows GitHub Flow:
 Example feature branch:
 - `feature-docker-setup`
 
+## Software Design
+
+The Road Safety Analysis System follows a modular client–server architecture to ensure scalability and maintainability. The system separates user interface components from data processing and accident analysis modules.
+
+Design diagrams and UI prototypes can be found in the /design folder.
+
 
 
